@@ -5,8 +5,9 @@ Game development enthusiast highly interested in graphics programming, concurren
 ### Working on
 
 ☀
+* I work at [Decoy Games](https://www.decoygames.com/) primarily working with DOTS integration and rendering.
 * I run [InitialPrefabs](https://initialprefabs.com/) and do consulting/development for clients to help develop and release their games/tech demos. 
-* I also work with [Thousand Ant](http://thousandant.com/) to help create educational content for game development.
+* I used to work with [Thousand Ant](http://thousandant.com/) to help create educational content for game development.
 
 
 🌃 
