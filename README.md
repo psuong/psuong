@@ -5,7 +5,7 @@ Game development enthusiast highly interested in graphics programming, concurren
 ### Working on
 
 ☀
-* I work at [Decoy Games](https://www.decoygames.com/) primarily working with DOTS integration and rendering.
+* I used to work at [Decoy Games](https://www.decoygames.com/) primarily working with DOTS integration and rendering.
 * I run [InitialPrefabs](https://initialprefabs.com/) and do consulting/development for clients to help develop and release their games/tech demos. 
 * I used to work with [Thousand Ant](http://thousandant.com/) to help create educational content for game development.
 
@@ -18,20 +18,5 @@ Game development enthusiast highly interested in graphics programming, concurren
 Biking, Wikipediaing non tech related things (working in tech doesn't mean you have to spend all your time looking into tech)
 
 ### 📫 How to reach me
-* If you want to chat, feel free to reach out to my [Twitter](https://twitter.com/PorrithSuong).
+* If you want to chat, feel free to reach out to my [Mastodon](https://mastodon.gamedev.place/@psuong).
 * For work related discussions, feel free to reach me at my email on my Github profile or my [LinkedIn](https://www.linkedin.com/in/porrithsuong/).
-
-<!--
-**psuong/psuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
